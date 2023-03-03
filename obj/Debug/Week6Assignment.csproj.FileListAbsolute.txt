@@ -1,0 +1,8 @@
+C:\Users\orteg\Documents\CSharp Spr 23\Week6Assignment\bin\Debug\Week6Assignment.exe.config
+C:\Users\orteg\Documents\CSharp Spr 23\Week6Assignment\bin\Debug\Week6Assignment.exe
+C:\Users\orteg\Documents\CSharp Spr 23\Week6Assignment\bin\Debug\Week6Assignment.pdb
+C:\Users\orteg\Documents\CSharp Spr 23\Week6Assignment\obj\Debug\Week6Assignment.csproj.AssemblyReference.cache
+C:\Users\orteg\Documents\CSharp Spr 23\Week6Assignment\obj\Debug\Week6Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\orteg\Documents\CSharp Spr 23\Week6Assignment\obj\Debug\Week6Assignment.csproj.CoreCompileInputs.cache
+C:\Users\orteg\Documents\CSharp Spr 23\Week6Assignment\obj\Debug\Week6Assignment.exe
+C:\Users\orteg\Documents\CSharp Spr 23\Week6Assignment\obj\Debug\Week6Assignment.pdb
